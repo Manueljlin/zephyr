@@ -9,7 +9,18 @@
     <key>descender</key>
     <integer>-225</integer>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>midx</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>320</integer>
+      </dict>
+    </array>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>xHeight</key>
