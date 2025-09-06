@@ -4,27 +4,27 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="147.6543" y="435.901" type="line"/>
-      <point x="147.6543" y="0.806641" type="line"/>
-      <point x="65.39648" y="0.806641" type="line"/>
-      <point x="65" y="549.193" type="line"/>
-      <point x="131.5254" y="549.193" type="line"/>
+      <point x="152.6543" y="435.901" type="line"/>
+      <point x="152.6543" y="0.806641" type="line"/>
+      <point x="70.39648" y="0.806641" type="line"/>
+      <point x="70" y="549.193" type="line"/>
+      <point x="136.5254" y="549.193" type="line"/>
     </contour>
     <contour>
-      <point x="324.2662" y="565.322" type="curve" smooth="yes"/>
-      <point x="346.8272" y="565.322"/>
-      <point x="356.84520000000003" y="561.215"/>
-      <point x="356.84520000000003" y="561.215" type="curve"/>
-      <point x="356.84520000000003" y="491.859" type="line"/>
-      <point x="356.84520000000003" y="491.859"/>
-      <point x="342.90720000000005" y="495.968"/>
-      <point x="324.2662" y="495.968" type="curve" smooth="yes"/>
-      <point x="216.4792" y="495.968"/>
-      <point x="147.6543" y="423.488"/>
-      <point x="147.6543" y="356.139" type="curve"/>
-      <point x="109.3506" y="340.243" type="line"/>
-      <point x="109.3506" y="456.567"/>
-      <point x="179.4412" y="565.322"/>
+      <point x="329.2662" y="565.322" type="curve" smooth="yes"/>
+      <point x="351.8272" y="565.322"/>
+      <point x="361.84520000000003" y="561.215"/>
+      <point x="361.84520000000003" y="561.215" type="curve"/>
+      <point x="361.84520000000003" y="491.859" type="line"/>
+      <point x="361.84520000000003" y="491.859"/>
+      <point x="347.90720000000005" y="495.968"/>
+      <point x="329.2662" y="495.968" type="curve" smooth="yes"/>
+      <point x="221.4792" y="495.968"/>
+      <point x="152.6543" y="423.488"/>
+      <point x="152.6543" y="356.139" type="curve"/>
+      <point x="114.3506" y="340.243" type="line"/>
+      <point x="114.3506" y="456.567"/>
+      <point x="184.4412" y="565.322"/>
     </contour>
   </outline>
 </glyph>
