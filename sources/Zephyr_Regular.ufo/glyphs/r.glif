@@ -11,14 +11,14 @@
       <point x="146.5254" y="549.193" type="line"/>
     </contour>
     <contour>
-      <point x="339.2662" y="565.322" type="curve" smooth="yes"/>
+      <point x="330" y="565" type="curve" smooth="yes"/>
       <point x="361.8272" y="565.322"/>
-      <point x="371.84520000000003" y="561.215"/>
-      <point x="371.84520000000003" y="561.215" type="curve"/>
-      <point x="371.84520000000003" y="491.859" type="line"/>
-      <point x="371.84520000000003" y="491.859"/>
+      <point x="374" y="560"/>
+      <point x="374" y="560" type="curve"/>
+      <point x="374" y="491" type="line"/>
+      <point x="374" y="491"/>
       <point x="357.90720000000005" y="495.968"/>
-      <point x="339.2662" y="495.968" type="curve" smooth="yes"/>
+      <point x="327" y="496" type="curve" smooth="yes"/>
       <point x="231.4792" y="495.968"/>
       <point x="162.6543" y="423.488"/>
       <point x="162.6543" y="356.139" type="curve"/>
