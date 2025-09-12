@@ -8,8 +8,20 @@
     <integer>720</integer>
     <key>descender</key>
     <integer>-225</integer>
+    <key>familyName</key>
+    <string>Next</string>
     <key>guidelines</key>
     <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>topx</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>320</integer>
+      </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
@@ -18,7 +30,7 @@
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>320</integer>
+        <integer>275</integer>
       </dict>
     </array>
     <key>unitsPerEm</key>
