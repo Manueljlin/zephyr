@@ -16,11 +16,11 @@
         <key>angle</key>
         <integer>0</integer>
         <key>name</key>
-        <string>topx</string>
+        <string>grt</string>
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>320</integer>
+        <integer>340</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -31,6 +31,16 @@
         <integer>0</integer>
         <key>y</key>
         <integer>275</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>grb</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>210</integer>
       </dict>
     </array>
     <key>unitsPerEm</key>
