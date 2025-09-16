@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="690"/>
+  <advance width="702"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
@@ -10,16 +10,16 @@
       <point x="70" y="740" type="line"/>
     </contour>
     <contour>
-      <point x="620" y="740" type="line"/>
-      <point x="620" y="0" type="line"/>
-      <point x="540" y="0" type="line"/>
-      <point x="540" y="740" type="line"/>
+      <point x="632" y="740" type="line"/>
+      <point x="632" y="0" type="line"/>
+      <point x="552" y="0" type="line"/>
+      <point x="552" y="740" type="line"/>
     </contour>
     <contour>
-      <point x="71" y="410" type="line"/>
-      <point x="619" y="410" type="line"/>
-      <point x="619" y="345" type="line"/>
-      <point x="71" y="345" type="line"/>
+      <point x="70" y="405" type="line"/>
+      <point x="632" y="405" type="line"/>
+      <point x="632" y="340" type="line"/>
+      <point x="70" y="340" type="line"/>
     </contour>
   </outline>
 </glyph>
